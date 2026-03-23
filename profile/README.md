@@ -2,11 +2,15 @@
 
 Roblox Grow a Garden Scripts provides a collection of powerful scripts designed to automate planting, watering, and harvesting in the Roblox Grow a Garden game. These scripts help you manage your garden efficiently, save time, and boost your in-game progress. Safe and compatible with popular Roblox executors, they are perfect for players who want to enjoy gardening without the grind.
 
-<div style="text-align: center">
-  <a href="https://delta-roblox-scripts-pc-free.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Roblox_Grow_a_Garden_Scripts-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
